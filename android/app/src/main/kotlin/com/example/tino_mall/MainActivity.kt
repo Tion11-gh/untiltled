@@ -1,0 +1,6 @@
+package com.example.tino_mall
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

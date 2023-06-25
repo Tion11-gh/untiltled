@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293209573552",
+    "project_id": "tino-mall",
+    "storage_bucket": "tino-mall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293209573552:android:71d6efb1873f2ff6ac1375",
+        "android_client_info": {
+          "package_name": "com.example.tino_mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293209573552-hjmbs37gd0a0hf4t3tgq2g94o0bdikrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tino_mall",
+            "certificate_hash": "21c5646314f8d08818d4392eed006d2e9571e0dc"
+          }
+        },
+        {
+          "client_id": "293209573552-o9k5s61v2dooa3fladit0apombcv8ffp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcc3Kl7IZE6ZezusAkE4yIRL75geeucU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293209573552-o9k5s61v2dooa3fladit0apombcv8ffp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
